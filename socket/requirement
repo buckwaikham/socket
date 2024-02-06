@@ -1,0 +1,16 @@
+requirement
+
+ref link:
+https://scapy.disruptivelabs.in/toc
+https://0xbharath.github.io/python-foundations/index.html
+https://0xbharath.github.io/python-network-programming/index.html
+
+install wireshark
+install virtualbox
+install python3
+
+python3 -m pip install --upgrage pip
+pip install requests
+pip install dnspython
+pip install scapy
+pip install ipython[all]
